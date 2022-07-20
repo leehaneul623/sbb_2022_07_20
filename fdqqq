@@ -1,0 +1,143 @@
+[33mcommit 44577c15d21854003ab1825d7c4471db20a29b05[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 19 11:20:36 2022 +0900
+
+    조회수 & 좋아요버튼
+
+[33mcommit a996bd6987e139351f7ff25e3a8bca9b33e8a82e[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Fri Jul 15 11:30:26 2022 +0900
+
+    답변 출력 bootstrap 적용
+
+[33mcommit 704e22aaae0092992ac36c3ee4ee330bfa5e03b5[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Fri Jul 15 10:50:23 2022 +0900
+
+    25강, AnswerController에서 폼 데이터 처리
+
+[33mcommit 92da11d864237e9c95926e0db2caa59a806deb68[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Fri Jul 15 10:09:39 2022 +0900
+
+    24강, 답변 등록, 폼 구현
+
+[33mcommit d4cf7c342e741181f07f57f81a9ce82c1e281b0a[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 11:29:47 2022 +0900
+
+    질문상세 controller 수정
+
+[33mcommit a65a3e70d6c6a8c2b175a332f2bbe12ac4cb9545[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 11:23:29 2022 +0900
+
+    질문 상세
+
+[33mcommit bcb7b02c8ee27d5c426b3186962ffaf6bc0ca6f1[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 10:49:48 2022 +0900
+
+    서비스 도입
+
+[33mcommit a04aa7e4b2b6ef8b755e6472cb1276d2b9c26b8c[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 10:37:24 2022 +0900
+
+    Root URL
+
+[33mcommit 16e570b1530dacb9e15a4fbec09bdba0e24092cc[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 10:28:23 2022 +0900
+
+    spring validation
+
+[33mcommit 5c2b1ba284ea26f3f3a53ea8ce2b7604b7bccf1d[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Thu Jul 14 09:22:26 2022 +0900
+
+    sbs
+
+[33mcommit 57f8c375ad55f6b9005eaf5503ccd3133f4a97ff[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 13 11:54:30 2022 +0900
+
+    템플릿 파일 변경시 변경사항 저장 세팅
+
+[33mcommit 832f7339ee89018bd3bc7338bc71fa9ecc9fd82d[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 13 11:43:17 2022 +0900
+
+    점프투스프링부트, 19강, 질문 목록과 템플릿
+
+[33mcommit 5d4066fce57c76cc60448d4c2e9ed33b2c0142b7[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 13 11:17:38 2022 +0900
+
+    답변 생성 ManyToOne OneToMany
+
+[33mcommit 9e3b6a5320165b1b28909a2c8f412441afa4352d[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 13 10:51:06 2022 +0900
+
+    질문 생성
+
+[33mcommit b2ee5c9838bea6189f028053369ae9251dc8faa8[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 12 13:51:43 2022 +0900
+
+    게시물 작성
+
+[33mcommit 08f6cb79dfff7b67068e4bd21f28300c8a86c427[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 12 13:36:47 2022 +0900
+
+    findByTitleAndBody
+
+[33mcommit 0837f3e5cdaa9e01aff1e12068047a11e89658fd[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 12 12:53:32 2022 +0900
+
+    존재하지않는 게시물입니다. 게시물 수정시 수정 날짜도 갱신 findByTitle
+
+[33mcommit f801a0457a5d1e413e404a7a1c6951237b231e31[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 6 12:12:51 2022 +0900
+
+    게시물 삭제
+
+[33mcommit 760a05477660d16c3d06706d6e86913bfc35563b[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 6 11:43:06 2022 +0900
+
+    게시물 수정
+
+[33mcommit fb0ab42420523cc755df6981139dbb2fd718036c[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 6 10:51:15 2022 +0900
+
+    id에 따른 게ã시물 1건 조회
+
+[33mcommit 84060b4f660bc962fb66253ed275697bde3f0e4e[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Wed Jul 6 10:45:44 2022 +0900
+
+    게시물 1건 조회
+
+[33mcommit a2e598e1034ddcc1e094a40390622fef01f87830[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 5 12:10:38 2022 +0900
+
+    유저 정보 출력
+
+[33mcommit e8b4a6e95d2e707a2b374c487306dd2770ad7f6c[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 5 11:30:37 2022 +0900
+
+    게시물 ì정보 출력
+
+[33mcommit ad6f1120d6966d458c052150c51e223da16c6d2b[m
+Author: xanqus <sbk98031816@gmail.com>
+Date:   Tue Jul 5 10:08:16 2022 +0900
+
+    세팅
